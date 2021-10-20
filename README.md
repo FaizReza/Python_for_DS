@@ -1,10 +1,12 @@
-# Python_for_DS
-My first repository
+# My Repo for INSAID Projects
 
-> I am learning Python
+## List of all Projects
 
-- Python is really cool
+------------
 
-'''
-print ("I Love Python")
-'''
+- Finance
+- Accounts
+- Banking
+- Energy
+- Medical
+- Power
