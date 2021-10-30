@@ -4,7 +4,8 @@
 
 ------------
 
-- [Linear Regression](https://github.com/FaizReza/Python_for_DS/tree/main/ML_Projects/Foundation/LinearRegression "Linear Regression") : Abalone Age Prediction
+- Linear Regression : 
+		[Project 1 Abalone Age Prediction](https://github.com/FaizReza/Python_for_DS/tree/main/ML_Projects/Foundation/LinearRegression "Project 1 Abalone Age Prediction")
 - Finance & Accounts
 - Banking
 - Energy
